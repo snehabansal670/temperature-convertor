@@ -27,12 +27,12 @@ This is a simple and interactive temperature converter application built using H
 
 ### Visual Demo
 
-![Demo GIF](link-to-your-demo-gif)
+![Demo GIF](calculator-bay-nine-55.vercel.app)
 
 ### Live Preview
 
 Check out the live version of the Temperature Converter on GitHub Pages:  
-[Live Demo](https://your-username.github.io/temperature-converter/)
+[Live Demo](https://snehabansal670.github.io/temperature-convertor/)
 
 ## Installation
 
