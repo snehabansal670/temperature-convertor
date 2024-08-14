@@ -27,7 +27,7 @@ This is a simple and interactive temperature converter application built using H
 
 ### Visual Demo
 
-![Demo GIF](calculator-bay-nine-55.vercel.app)
+vercel app link (temperature-convertor-dusky.vercel.app)
 
 ### Live Preview
 
